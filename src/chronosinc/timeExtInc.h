@@ -37,6 +37,7 @@
 #include <Arduino.h>
 #include <Print.h>
 #include <HardwareSerial.h>
+#include <TimeLib.h>
 #endif
 
 #ifdef CHRONOS_CLOCKSOURCE_TIMELIB
